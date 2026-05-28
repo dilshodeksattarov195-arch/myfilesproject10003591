@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfync",
+        "uuid": 3389904,
+        "checksum": "d40e9pd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
